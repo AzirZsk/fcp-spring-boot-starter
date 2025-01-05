@@ -12,6 +12,7 @@
     <groupId>io.github.azirzsk</groupId>
     <artifactId>fcp-spring-boot-starter</artifactId>
     <version>1.0.0</version>
+    <name>fcp-spring-boot-starter</name>
 
     <description>
         FCP Spring Boot Starter
